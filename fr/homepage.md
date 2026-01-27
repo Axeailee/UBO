@@ -1,3 +1,8 @@
+<div style="position: fixed; top: 15px; right: 15px;">
+  <a href="/en/index.html" style="margin-right: 10px;">🇬🇧 EN</a>
+  <a href="/fr/index.html">🇫🇷 FR</a>
+</div>
+
 <div style="position: fixed; top: 0; left: 0; width: 200px; height: 100vh; background-image: url('../img/photocuisine.jpeg');">
 </div>
 <div style="position: fixed; top: 0; right: 0; width: 200px; height: 100vh; background-image: url('../img/dinnertable.jpeg');">
