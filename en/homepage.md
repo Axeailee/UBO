@@ -1,6 +1,5 @@
-<div style="position: fixed; top: 15px; right: 15px;">
-  <a href="/fr/index.html" style="margin-right: 10px;">🇫🇷 FR</a>
-  <a href="/en/index.html">🇬🇧 EN</a>
+<div style="position: fixed; top: 50%; left: 10px; background: red; z-index: 9999;">
+  TEST 🇫🇷 | 🇬🇧
 </div>
 
 <div style="position: fixed; top: 0; left: 0; width: 200px; height: 100vh; background-image: url('../img/photocuisine.jpeg');">
