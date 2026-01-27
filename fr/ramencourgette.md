@@ -10,7 +10,7 @@
 - Un filet d'huile d'olive
 - Curry, flocons de piment, sel, poivre, gingembre et ail en poudre
 
-![alt text](../ramen.jpg)
+![alt text](../img/ramen.jpg)
 
 ***
 
