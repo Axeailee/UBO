@@ -1,6 +1,6 @@
-<div style="position: fixed; top: 0; left: 0; width: 200px; height: 100vh; background-image: url('img/photocuisine.jpeg');">
+<div style="position: fixed; top: 0; left: 0; width: 200px; height: 100vh; background-image: url('../img/photocuisine.jpeg');">
 </div>
-<div style="position: fixed; top: 0; right: 0; width: 200px; height: 100vh; background-image: url('img/dinnertable.jpeg');">
+<div style="position: fixed; top: 0; right: 0; width: 200px; height: 100vh; background-image: url('../img/dinnertable.jpeg');">
 </div>
 
 <div style="text-align: center;">
