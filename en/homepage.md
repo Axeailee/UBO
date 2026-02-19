@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="../fr/homepage">🇫🇷</a>
+  <a href="../fr/homepage">FR</a>
 </p>
 
 <div style="position: fixed; top: 0; left: 0; width: 200px; height: 100vh; background-image: url('../img/photocuisine.jpeg');">
