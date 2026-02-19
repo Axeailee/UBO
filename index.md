@@ -5,6 +5,6 @@
 <link rel="canonical" href="https://axeailee.github.io/UBO/fr/homepage">
 
 <div style="position: fixed; top: 15px; right: 15px;">
-  <a href="/en/index.html" style="margin-right: 10px;">🇬🇧 EN</a>
-  <a href="/fr/index.html">🇫🇷 FR</a>
+  <a href="/en/homepage.md" style="margin-right: 10px;">🇬🇧 EN</a>
+  <a href="/fr/homepage.md">🇫🇷 FR</a>
 </div>
