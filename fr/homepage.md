@@ -1,9 +1,10 @@
 <div style="
   position: fixed;
   top: 50%;
-  left: 10px;
-  transform: translateY(-50%);
+  left: 50%;
+  transform: translate(-50%, -50%);
   font-weight: bold;
+  text-align: center;
 ">
   <a href="/fr/index.html" style="text-decoration:none;">🇫🇷</a><br>
   <a href="/en/index.html" style="text-decoration:none;">🇬🇧</a>
