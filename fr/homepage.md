@@ -1,5 +1,4 @@
 <p align="center">
-  <a href="/fr/index.html">FR</a><br>
   <a href="/en/index.html">EN</a>
 </p>
 
