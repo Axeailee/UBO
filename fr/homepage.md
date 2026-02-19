@@ -1,6 +1,6 @@
 <p align="center">
-  <a href="/fr/index.html">🇫🇷</a><br>
-  <a href="/en/index.html">🇬🇧</a>
+  <a href="/fr/index.html">FR</a><br>
+  <a href="/en/index.html">EN</a>
 </p>
 
 <div style="position: fixed; top: 0; left: 0; width: 200px; height: 100vh; background-image: url('../img/photocuisine.jpeg');">
