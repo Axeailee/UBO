@@ -1,14 +1,7 @@
-<div style="
-  position: fixed;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-  font-weight: bold;
-  text-align: center;
-">
-  <a href="/fr/index.html" style="text-decoration:none;">🇫🇷</a><br>
-  <a href="/en/index.html" style="text-decoration:none;">🇬🇧</a>
-</div>
+<p align="center">
+  <a href="/fr/index.html">🇫🇷</a><br>
+  <a href="/en/index.html">🇬🇧</a>
+</p>
 
 <div style="position: fixed; top: 0; left: 0; width: 200px; height: 100vh; background-image: url('../img/photocuisine.jpeg');">
 </div>
